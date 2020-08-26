@@ -1,0 +1,15 @@
+.page-main__wrapper {
+    background-color: $basic_black;
+    background-image: url("../img/Pattern.png");
+    height: 100vh;
+}
+
+.page-main__title {
+    margin: 0;
+    color: $basic_white;
+    text-align: center;
+    font-size: 36px;
+    line-height: 43px;
+    padding-top: 55px;
+    padding-bottom: 23px;
+}
