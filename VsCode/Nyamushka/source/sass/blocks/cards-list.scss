@@ -86,6 +86,10 @@
         margin: 0;
     }
 
+    @media (min-resolution: 2dppx) {
+        background-image: url("../img/cat-img-1@2x.png");
+      }
+
 }
 
 .cards-list__item:nth-child(3) {

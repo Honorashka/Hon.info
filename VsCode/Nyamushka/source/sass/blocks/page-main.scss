@@ -2,6 +2,11 @@
     background-color: $basic_black;
     background-image: url("../img/Pattern.png");
     height: 100vh;
+
+    @media (min-resolution: 2dppx) {
+        background-image: url("../img/Pattern@2x.png");
+      }
+
 }
 
 .page-main__title {
